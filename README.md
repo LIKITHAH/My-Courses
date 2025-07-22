@@ -1,31 +1,35 @@
 # 📜 My Learning & Participation Certificates
 
-Welcome to my certificate repository! This collection includes internship completions, course certifications, and participation acknowledgments from various platforms. These reflect my ongoing journey in Data Science, AI/ML, and related domains.
+Welcome to my certificate repository! This collection includes internships, hands-on course completions, and event participations that reflect my learning journey in Artificial Intelligence, Machine Learning, Data Science, and more.
 
 ---
 
 ## 🧠 Internships
 
-- **Artificial Intelligence & Machine Learning Internship**  
-  *Organization:* [Company Name or Internship Platform]  
-  *Duration:* Second Internship  
-  📄 `AIML_Internship_Certificate.pdf`
+- **AI & ML Internship (1st Internship)**  
+  *Duration:* 2 Weeks  
+  *Focus:* Introduction to AI & ML concepts and industry workflows  
+  📄 `AIML_technofly.jpg`
+
+- **Artificial Intelligence & Machine Learning Internship (2nd Internship)** 
+  *Focus:* Advanced AI/ML applications and tools  
+  📄 `Internship_iPEC.pdf`
 
 ---
 
-## 👁 Computer Vision
+## 🛠️ Hands-on Courses
+
+- **Hands-on Course in Artificial Intelligence**  
+  *Platform:* iPEC  
+  📄 `AIML.pdf`
 
 - **Introduction to Computer Vision**  
   *Platform:* Infosys Springboard  
-  📄 `Infosys_Springboard_Computer_Vision_Certificate.pdf`
-
----
-
-## 📊 Data Analytics
+  📄 `computer_vision.pdf`
 
 - **Data Analytics Course**  
   *Platform:* Scaler Academy  
-  📄 `Scaler_Data_Analytics_Certificate.pdf`
+  📄 `scaler_data_analytics.jpg`
 
 ---
 
@@ -33,12 +37,13 @@ Welcome to my certificate repository! This collection includes internship comple
 
 - **Algomania Hackathon – Participation**  
   *Role:* Participant  
-  📄 `Algomania_Participation_Certificate.pdf`
+  📄 `algomania.pdf`
 
 - **Terrathon Hackathon – Participation**  
   *Role:* Participant  
-  📄 `Terrathon_Participation_Certificate.pdf`
+  📄 `terrathon.png`
 
 ---
+
 
 
